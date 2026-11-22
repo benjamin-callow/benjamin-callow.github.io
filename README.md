@@ -1,12 +1,12 @@
 <link rel ="stylesheet" href="https://benjamin-callow.github.io/benjamin-callow/style.css">
 <div style="centered-box">
-    <div style="card">
+<div style="card">
 
 ## Hi there 👋
 
 This is the hub for my GitHub Pages deployments.
 
-    </div>
+</div>
 </div>
 
 <a href="greenthumb.html>Green Thumb Gardening</a>
