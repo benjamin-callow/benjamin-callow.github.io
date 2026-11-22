@@ -1,6 +1,15 @@
+<link rel ="stylesheet" href="style.css">
+<div style="centered-box">
+    <div style="card">
+
 ## Hi there 👋
 
-cert iii IT @ Bendigo Kangan Institute
+    This is the hub for my GitHub Pages deployments.
+    </div>
+    </div>
+<a href="greenthumb.html>Green Thumb Gardening</a>
+
+I'm studying cert iii IT @ Bendigo Kangan Institute
 
 <!--
 **benjamin-callow/benjamin-callow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
