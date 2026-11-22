@@ -28,7 +28,7 @@ header, footer {
     background-color: var(--card-background);
     border-radius: var(--box-radius);
     height: 350px;
-    min-heigh: 350px;
+    min-height: 350px;
     width: 300px;
     min-width: 300px;
     text-align: center;
