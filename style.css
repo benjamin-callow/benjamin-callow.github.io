@@ -34,9 +34,11 @@ header, footer {
     text-align: center;
     margin: 20px;
     padding-inline: 15px;
+    align-content: center;
+    padding-block:5px;
 }
 
-ul {
+ul,li {
     text-align: left;
     padding: 0px;
     list-style-position: inside;
