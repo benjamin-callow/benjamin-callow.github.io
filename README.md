@@ -1,15 +1,6 @@
-<link rel ="stylesheet" href="https://benjamin-callow.github.io/benjamin-callow/style.css">
-<div style="centered-box">
-<div style="card">
-
 ## Hi there 👋
 
 This is the hub for my GitHub Pages deployments.
-
-</div>
-</div>
-
-<a href="greenthumb.html>Green Thumb Gardening</a>
 
 I'm studying cert iii IT @ Bendigo Kangan Institute
 
